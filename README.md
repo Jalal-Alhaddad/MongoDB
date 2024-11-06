@@ -1,8 +1,8 @@
 # MongoDB
 
-[MongoDB](https://www.mongodb.com/)
-[MongoDB Documentation](https://www.mongodb.com/docs/)
-[Learn MongoDB and Advance Your Career.](https://learn.mongodb.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [MongoDB Documentation](https://www.mongodb.com/docs/)
+- [Learn MongoDB and Advance Your Career.](https://learn.mongodb.com/)
 
 ## Introduction to NoSQL
 
